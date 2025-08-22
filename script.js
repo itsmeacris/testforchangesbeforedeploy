@@ -308,61 +308,6 @@ const xionBassadors = [
             discord: "kova6471"
         },
         blurColor: "rgba(0, 173, 239, 0.2)"
-    },
-    {
-        name: "Ashborn",
-        role: "Elect",
-        electedDate: "June 6, 2025",
-        avatar: "https://i.ibb.co/YFNJbZH6/ashborn.jpg",
-        socials: {
-            twitter: "https://x.com/AshborN_AsK",
-            discord: "ashborn_ask"
-        },
-        blurColor: "rgba(0, 173, 239, 0.2)"
-    },
-    {
-        name: "NY-JOKER",
-        role: "Elect",
-        electedDate: "June 6, 2025",
-        avatar: "https://i.ibb.co/WNt13FLx/joker.jpg",
-        socials: {
-            twitter: "https://x.com/ny_joker_eth",
-            discord: "ny_joker"
-        },
-        blurColor: "rgba(255, 192, 203, 0.2)"
-    },
-    {
-        name: "IKAY",
-        role: "Elect",
-        electedDate: "June 6, 2025",
-        avatar: "https://i.ibb.co/GBztR64/ikay.jpg",
-        socials: {
-            twitter: "https://x.com/Great_Ikay",
-            discord: "ikay8522"
-        },
-        blurColor: "rgba(0, 173, 239, 0.2)"
-    },
-    {
-        name: "Ａｘｅｌ",
-        role: "Elect",
-        electedDate: "June 6, 2025",
-        avatar: "https://i.ibb.co/39fRVxHM/axel.jpg",
-        socials: {
-            twitter: "https://x.com/axel__web3",
-            discord: "axel__001"
-        },
-        blurColor: "rgba(139, 0, 0, 0.2)"
-    },
-    {
-        name: "Qazi Haris",
-        role: "Elect",
-        electedDate: "June 6, 2025",
-        avatar: "https://i.ibb.co/q3V4RYdH/qazi.jpg",
-        socials: {
-            twitter: "https://x.com/QaziHaris706",
-            discord: "ericklee325"
-        },
-        blurColor: "rgba(255, 165, 0, 0.2)"
     }
 ];
 
