@@ -1,171 +1,55 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #000000;
-    color: #e6edf3;
-    line-height: 1.6;
-    margin: 0;
-    padding: 20px;
-    text-align: center;
+/* Add these styles to the end of your existing style.css file */
+
+.main-title {
+    text-decoration: none;
+    color: inherit;
 }
 
-header {
-    margin-bottom: 40px;
-}
-
-h1 {
-    color: #279AF1;
-    font-size: 2.5em;
-    margin-bottom: 10px;
-}
-
-p {
-    color: #b0b0b0;
-    max-width: 700px;
-    margin: auto;
-}
-
-#ambassador-wall {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-    padding: 0;
-    list-style: none;
-    justify-content: center;
-}
-
-.ambassador-card {
+.dropdown-menu {
     position: relative;
-    background-color: #121212;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-    overflow: hidden;
-    text-align: center;
-}
-
-.ambassador-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(230, 237, 243, 0.2);
-}
-
-.ambassador-card::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: var(--blur-color);
-    filter: blur(20px);
-    z-index: -1;
-}
-
-.ambassador-card img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 10px;
-}
-
-.ambassador-card h3 {
-    margin: 10px 0 5px;
-    color: #fff;
-}
-
-.ambassador-card .role {
-    font-weight: bold;
-    color: #007bff;
-    font-size: 0.9em;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 5px;
-}
-
-.ambassador-card .elected-date, .ambassador-card .knighted-date {
-    color: #b0b0b0;
-    font-size: 0.8em;
-    margin-bottom: 15px;
-}
-
-.knighted-date {
-    margin-top: -10px;
-}
-
-.socials {
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    align-items: center;
-}
-
-/* New and fixed styles for the social buttons on the cards */
-.socials a.twitter-button, .socials .discord-box {
-    text-decoration: none;
-    background-color: #222;
-    border: 1px solid #444;
-    color: #fff;
-    padding: 8px 15px;
-    border-radius: 20px;
-    font-size: 0.9em;
-    transition: background-color 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.socials a.twitter-button:hover, .socials .discord-box:hover {
-    background-color: #333;
-}
-
-/* New and fixed styles for the footer */
-footer {
-    margin-top: 50px;
-    padding: 30px;
-    background-color: #0c0c0c;
-    border-top: 1px solid #1a1a1a;
-    text-align: center;
-}
-
-.join-button {
-    margin-bottom: 20px;
-}
-
-.join-now-btn {
     display: inline-block;
-    padding: 12px 30px;
-    font-size: 1.1em;
-    text-decoration: none;
+    margin-top: 20px;
+}
+
+.dropdown-btn {
     background-color: #222;
-    color: #fff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
     border: 1px solid #444;
-    border-radius: 25px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-.join-now-btn:hover {
+.dropdown-btn:hover {
     background-color: #333;
-    transform: translateY(-2px);
 }
 
-.social-links p {
-    font-size: 1.1em;
-    color: #fff;
-    margin-bottom: 15px;
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #1a1a1a;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
-.social-icons a {
-    color: #b0b0b0;
-    font-size: 2.2em;
-    margin: 0 15px;
-    transition: color 0.3s ease;
-    text-decoration: none;
-}
-
-.social-icons a:hover {
+.dropdown-content a {
     color: #e6edf3;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s;
+}
+
+.dropdown-content a:hover {
+    background-color: #333;
+}
+
+.dropdown-menu:hover .dropdown-content {
+    display: block;
 }
