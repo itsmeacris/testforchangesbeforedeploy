@@ -1,7 +1,7 @@
 const xionBassadors = [
     {
         name: "Dmitri_us",
-        role: "Elect|Crusader",
+        role: "Elect | Crusader",
         electedDate: "Febuary 26, 2024",
         knightedDate: "December 27, 2024",
         avatar: "https://i.ibb.co/r2Yj9pL0/dmitri-us.jpg",
@@ -13,7 +13,7 @@ const xionBassadors = [
     },
     {
         name: "Santol",
-        role: "Elect|Crusader",
+        role: "Elect | Crusader",
         electedDate: "March 28, 2024",
         knightedDate: "December 28, 2024",
         avatar: "https://i.ibb.co/rRtTnt4g/santol.jpg",
@@ -65,7 +65,7 @@ const xionBassadors = [
             twitter: "https://x.com/hinoryucrypto",
             discord: "hinoryucrypto"
         },
-        blurColor: "rgba(101, 80, 68, 0.2)"
+        blurColor: "rgba(101, 80, 68, 0.3)"
     },
     {
         name: "Uncle Link",
@@ -87,7 +87,7 @@ const xionBassadors = [
             twitter: "https://x.com/cryptozen99",
             discord: "tomjke"
         },
-        blurColor: "rgba(102, 255, 0, 0.2)"
+        blurColor: "rgba(102, 255, 0, 0.1)"
     },
     {
         name: "Antrezur",
@@ -98,7 +98,7 @@ const xionBassadors = [
             twitter: "https://x.com/toto_izmail",
             discord: "antrezur_xvi"
         },
-        blurColor: "rgba(255, 140, 0, 0.2)"
+        blurColor: "rgba(255, 140, 0, 0.1)"
     },
     {
         name: "Feralberry",
@@ -120,7 +120,7 @@ const xionBassadors = [
             twitter: "https://x.com/Rest4ndRelax",
             discord: "rest4ndrelax"
         },
-        blurColor: "rgba(255, 215, 0, 0.2)"
+        blurColor: "rgba(255, 215, 0, 0.1)"
     },
     {
         name: "Aman",
@@ -175,7 +175,7 @@ const xionBassadors = [
             twitter: "https://x.com/Bite_edu",
             discord: "jems8727"
         },
-        blurColor: "rgba(102, 255, 0, 0.2)"
+        blurColor: "rgba(102, 255, 0, 0.1)"
     },
     {
         name: "ACRis",
@@ -186,7 +186,7 @@ const xionBassadors = [
             twitter: "https://x.com/itsmeacris",
             discord: "itsmeacris"
         },
-        blurColor: "rgba(255, 140, 0, 0.2)"
+        blurColor: "rgba(255, 140, 0, 0.1)"
     },
     {
         name: "MACARON",
@@ -208,7 +208,7 @@ const xionBassadors = [
             twitter: "https://x.com/sherrythelast",
             discord: "sherry0830"
         },
-        blurColor: "rgba(0, 255, 0, 0.2)"
+        blurColor: "rgba(0, 255, 0, 0.1)"
     },
     {
         name: "KEMKEM",
@@ -241,7 +241,7 @@ const xionBassadors = [
             twitter: "https://x.com/HODL037",
             discord: "hodl037"
         },
-        blurColor: "rgba(60, 60, 60, 0.2)"
+        blurColor: "rgba(60, 60, 60, 0.3)"
     },
     {
         name: "Alom",
@@ -274,7 +274,7 @@ const xionBassadors = [
             twitter: "https://x.com/raeesidres",
             discord: "raeesidres"
         },
-        blurColor: "rgba(50, 50, 50, 0.2)"
+        blurColor: "rgba(50, 50, 50, 0.3)"
     },
     {
         name: "Abhi",
