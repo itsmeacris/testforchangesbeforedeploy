@@ -1,6 +1,5 @@
-/* Add these styles to the end of your existing style.css file */
-
-.main-title {
+/* Add these new styles for the dropdown menu */
+.main-title-link {
     text-decoration: none;
     color: inherit;
 }
