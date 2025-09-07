@@ -5,7 +5,7 @@ const xionBassadors = [
         electedDate: "Febuary 26, 2024",
         knightedDate: "December 27, 2024",
         avatar: "https://i.ibb.co/r2Yj9pL0/dmitri-us.jpg",
-        coverPhoto: "https://i.ibb.co/r2Yj9pL0/dmitri-us.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/4343640389/1756740812/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/zabolotniyD",
             discord: "dmitri_us"
@@ -18,7 +18,7 @@ const xionBassadors = [
         electedDate: "March 28, 2024",
         knightedDate: "December 28, 2024",
         avatar: "https://i.ibb.co/rRtTnt4g/santol.jpg",
-        coverPhoto: "https://i.ibb.co/rRtTnt4g/santol.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1422653897496088583/1756489576/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/PX_Santol",
             discord: "px_santol"
