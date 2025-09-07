@@ -42,7 +42,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "January 22, 2024",
         avatar: "https://i.ibb.co/VWTLG2fh/naza.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
         socials: {
             twitter: "https://x.com/nazarr_0x",
             discord: "polniukn"
