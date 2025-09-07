@@ -44,6 +44,7 @@ p {
     cursor: pointer;
     overflow: hidden;
     text-align: center;
+    padding-top: 0; /* Remove top padding for the cover photo */
 }
 
 .ambassador-card:hover {
@@ -63,12 +64,29 @@ p {
     z-index: -1;
 }
 
+/* New styles for the cover photo */
+.cover-photo {
+    width: calc(100% + 40px); /* Adjust for padding on the card itself */
+    height: 100px; /* Or whatever height you prefer */
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin: -20px -20px 0px -20px; /* Negative margin to fill the top of the card */
+    position: relative;
+    z-index: 0;
+}
+
 .ambassador-card img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
     object-fit: cover;
+    margin-top: -50px; /* Pull the avatar up to overlap the cover photo */
     margin-bottom: 10px;
+    border: 4px solid #121212; /* Border to separate from cover */
+    position: relative;
+    z-index: 1; /* Ensure avatar is above cover */
 }
 
 .ambassador-card h3 {
