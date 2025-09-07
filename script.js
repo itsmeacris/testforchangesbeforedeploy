@@ -5,7 +5,6 @@ const xionBassadors = [
         electedDate: "Febuary 26, 2024",
         knightedDate: "December 27, 2024",
         avatar: "https://i.ibb.co/r2Yj9pL0/dmitri-us.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/zabolotniyD",
             discord: "dmitri_us"
@@ -18,7 +17,6 @@ const xionBassadors = [
         electedDate: "March 28, 2024",
         knightedDate: "December 28, 2024",
         avatar: "https://i.ibb.co/rRtTnt4g/santol.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/PX_Santol",
             discord: "px_santol"
@@ -30,7 +28,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "January 8, 2024",
         avatar: "https://i.ibb.co/SDbx8qnj/miretu.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/_MiReTu_",
             discord: "miretu"
@@ -42,7 +39,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "January 22, 2024",
         avatar: "https://i.ibb.co/VWTLG2fh/naza.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/nazarr_0x",
             discord: "polniukn"
@@ -54,7 +50,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 26, 2024",
         avatar: "https://i.ibb.co/Q3jdbNkG/marko-stevan.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/MarkoStevan19",
             discord: "stevan4260"
@@ -66,7 +61,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 28, 2024",
         avatar: "https://i.ibb.co/rfNz81Hr/hinoryu.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/hinoryucrypto",
             discord: "hinoryucrypto"
@@ -78,7 +72,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2024",
         avatar: "https://i.ibb.co/nqPTyy33/unclelink.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/UncleLinx",
             discord: "unclelink.eth"
@@ -90,7 +83,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "July 19, 2024",
         avatar: "https://i.ibb.co/HL5z3jWJ/tomj.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/cryptozen99",
             discord: "tomjke"
@@ -102,7 +94,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "July 19, 2024",
         avatar: "https://i.ibb.co/21kzv3BX/antrezeur.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/toto_izmail",
             discord: "antrezur_xvi"
@@ -114,7 +105,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/Sk0BM7c/ferealberry.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/0x_Feralberry",
             discord: "0x_feralberry"
@@ -126,7 +116,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/S4r5fXTt/reast4ndrelax.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/Rest4ndRelax",
             discord: "rest4ndrelax"
@@ -138,7 +127,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/Z6S2fmrR/aman.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/otxAman",
             discord: "aman7o"
@@ -150,7 +138,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/ksJJPPqT/eliot.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/cryptowoodd",
             discord: "cryptowood"
@@ -162,7 +149,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/zWJm5btK/donotcallme.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/don0tcallme",
             discord: "don0tcallme"
@@ -174,7 +160,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/RpKrGnJL/stasxion.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/StasXion",
             discord: "brozenstars"
@@ -186,7 +171,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/R44cJPJR/bite.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/Bite_edu",
             discord: "jems8727"
@@ -198,7 +182,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/hR4yD5MD/acris.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/itsmeacris",
             discord: "itsmeacris"
@@ -210,7 +193,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/ZR4fPDnt/macaron.png",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/macaron_dao_",
             discord: "macaron_dao"
@@ -222,7 +204,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/G39p1S05/sherry.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/sherrythelast",
             discord: "sherry0830"
@@ -234,7 +215,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/v69qQ7f2/kemkem.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/KemkemCrypt",
             discord: "kemkemcrypt"
@@ -246,7 +226,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/vCsBB3Wv/daniel.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/daniarchibong_",
             discord: "daniarchibong_"
@@ -258,7 +237,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/4ZXgLcRK/mr-hodl.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/HODL037",
             discord: "hodl037"
@@ -270,7 +248,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/fG8tnGgW/alom.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/khurshed6610",
             discord: "alom6610"
@@ -282,7 +259,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/TMnhfPFQ/miyamoto.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/GMiyamotoo",
             discord: "miyamoto5139"
@@ -294,7 +270,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/XG0t5s9/idres.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/raeesidres",
             discord: "raeesidres"
@@ -306,7 +281,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/ZzVB4JYr/abhi.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/Abhi__web3",
             discord: "abhi__web3"
@@ -318,7 +292,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/sdtSrhPj/alok.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/alok_inj",
             discord: "alok8665"
@@ -330,7 +303,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/ZCPxqdG/kova.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/kayd_kova",
             discord: "kova6471"
@@ -342,7 +314,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2025",
         avatar: "https://i.ibb.co/YFNJbZH6/ashborn.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/AshborN_AsK",
             discord: "ashborn_ask"
@@ -354,7 +325,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2025",
         avatar: "https://i.ibb.co/WNt13FLx/joker.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/ny_joker_eth",
             discord: "ny_joker"
@@ -366,7 +336,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2025",
         avatar: "https://i.ibb.co/GBztR64/ikay.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/Great_Ikay",
             discord: "ikay8522"
@@ -378,7 +347,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2025",
         avatar: "https://i.ibb.co/39fRVxHM/axel.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/axel__web3",
             discord: "axel__001"
@@ -390,7 +358,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2025",
         avatar: "https://i.ibb.co/q3V4RYdH/qazi.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
         socials: {
             twitter: "https://x.com/QaziHaris706",
             discord: "ericklee325"
@@ -414,7 +381,6 @@ function createAmbassadorCard(ambassador) {
     };
 
     card.innerHTML = `
-        <div class="cover-photo" style="background-image: url('${ambassador.coverPhoto}');"></div>
         <img src="${ambassador.avatar}" alt="${ambassador.name}'s profile picture">
         <h3>${ambassador.name}</h3>
         <p class="role">${ambassador.role}</p>
