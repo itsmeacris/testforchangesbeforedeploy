@@ -60,17 +60,17 @@ p {
     bottom: 0;
     background-color: var(--blur-color);
     filter: blur(20px);
-    z-index: -1;
+    z-index: 2;
 }
 
 .cover-photo {
     width: 100%;
-    height: 80px;
+    height: 100px;
     background-size: cover;
     background-position: center;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    margin-bottom: -50px;
+    margin-bottom: -60px;
 }
 
 .ambassador-card img {
