@@ -23,14 +23,14 @@ const xionBassadors = [
             twitter: "https://x.com/PX_Santol",
             discord: "px_santol"
         },
-        blurColor: "rgba(102, 255, 102, 0.2)"
+        blurColor: "rgba(102, 255, 102, 0.1)"
     },
     {
         name: "MiReTu",
         role: "Elect",
         electedDate: "January 8, 2024",
         avatar: "https://i.ibb.co/SDbx8qnj/miretu.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1638945783138361353/1711241656/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/_MiReTu_",
             discord: "miretu"
@@ -54,7 +54,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 26, 2024",
         avatar: "https://i.ibb.co/Q3jdbNkG/marko-stevan.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/703489704394502144/1457706737/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/MarkoStevan19",
             discord: "stevan4260"
