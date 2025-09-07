@@ -35,7 +35,7 @@ const xionBassadors = [
             twitter: "https://x.com/_MiReTu_",
             discord: "miretu"
         },
-        blurColor: "rgba(255, 165, 0, 0.2)"
+        blurColor: "rgba(255, 165, 0, 0.1)"
     },
     {
         name: "nazaᚱ",
@@ -58,7 +58,7 @@ const xionBassadors = [
             twitter: "https://x.com/MarkoStevan19",
             discord: "stevan4260"
         },
-        blurColor: "rgba(255, 127, 80, 0.2)"
+        blurColor: "rgba(255, 127, 80, 0.1)"
     },
     {
         name: "hinoryu",
@@ -81,7 +81,7 @@ const xionBassadors = [
             twitter: "https://x.com/UncleLinx",
             discord: "unclelink.eth"
         },
-        blurColor: "rgba(255, 140, 0, 0.2)"
+        blurColor: "rgba(255, 140, 0, 0.1)"
     },
     {
         name: "Tom J. INTEGRATED",
@@ -100,7 +100,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "July 19, 2024",
         avatar: "https://i.ibb.co/21kzv3BX/antrezeur.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/86922787/1688651110/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/toto_izmail",
             discord: "antrezur_xvi"
@@ -112,7 +112,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/Sk0BM7c/ferealberry.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1717182433219710976/1720285904/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/0x_Feralberry",
             discord: "0x_feralberry"
@@ -124,7 +124,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/S4r5fXTt/reast4ndrelax.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1401519892524789760/1732161216/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/Rest4ndRelax",
             discord: "rest4ndrelax"
@@ -136,7 +136,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "September 2, 2024",
         avatar: "https://i.ibb.co/Z6S2fmrR/aman.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1721154886874652672/1699206037/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/otxAman",
             discord: "aman7o"
