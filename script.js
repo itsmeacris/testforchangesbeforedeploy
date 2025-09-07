@@ -5,7 +5,7 @@ const xionBassadors = [
         electedDate: "Febuary 26, 2024",
         knightedDate: "December 27, 2024",
         avatar: "https://i.ibb.co/r2Yj9pL0/dmitri-us.jpg",
-        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png",
+        coverPhoto: "https://i.ibb.co/YFNJbZH6/ashborn.jpg",
         socials: {
             twitter: "https://x.com/zabolotniyD",
             discord: "dmitri_us"
