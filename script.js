@@ -65,7 +65,6 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 28, 2024",
         avatar: "https://i.ibb.co/rfNz81Hr/hinoryu.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
         socials: {
             twitter: "https://x.com/hinoryucrypto",
             discord: "hinoryucrypto"
@@ -77,7 +76,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "June 6, 2024",
         avatar: "https://i.ibb.co/nqPTyy33/unclelink.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/3326724228/1716199547/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/UncleLinx",
             discord: "unclelink.eth"
@@ -89,7 +88,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "July 19, 2024",
         avatar: "https://i.ibb.co/HL5z3jWJ/tomj.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1442414695038611469/1748368145/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/cryptozen99",
             discord: "tomjke"
