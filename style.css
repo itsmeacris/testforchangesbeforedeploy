@@ -65,17 +65,17 @@ p {
 
 .cover-photo {
     width: 100%;
-    height: 80px;
+    height: 100px; /* Increased height for better visibility */
     background-size: cover;
     background-position: center;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    margin-bottom: -50px;
+    margin-bottom: -60px; /* Adjusted to pull the avatar up */
 }
 
 .ambassador-card img {
     position: relative;
-    z-index: 1;
+    z-index: 2; /* Made sure avatar is on top of cover photo */
     border: 4px solid #121212;
     margin-bottom: 10px;
     width: 100px;
@@ -182,17 +182,6 @@ footer {
     color: #e6edf3;
 }
 
-.theme-toggle-btn {
-    position: absolute;
-    top: 25px;
-    right: 25px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 1.5em;
-    color: #e6edf3;
-}
-
 .main-title-link {
     text-decoration: none;
     color: inherit;
@@ -245,76 +234,4 @@ footer {
 
 .dropdown-menu:hover .dropdown-content {
     display: block;
-}
-
-body.light-theme {
-    background-color: #ffffff;
-    color: #333;
-}
-
-body.light-theme h1 {
-    color: #000;
-}
-
-body.light-theme p {
-    color: #666;
-}
-
-body.light-theme .ambassador-card {
-    background-color: #f8f9fa;
-    border-color: #ccc;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-body.light-theme .ambassador-card h3 {
-    color: #333;
-}
-
-body.light-theme .ambassador-card .role {
-    color: #007bff;
-}
-
-body.light-theme .ambassador-card .elected-date, body.light-theme .ambassador-card .knighted-date {
-    color: #666;
-}
-
-body.light-theme .socials a.twitter-button, body.light-theme .socials .discord-box {
-    background-color: #e9ecef;
-    color: #333;
-    border-color: #ddd;
-}
-
-body.light-theme .socials a.twitter-button:hover, body.light-theme .socials .discord-box:hover {
-    background-color: #e2e6ea;
-}
-
-body.light-theme footer {
-    background-color: #f1f1f1;
-    border-top: 1px solid #ddd;
-}
-
-body.light-theme .social-links p {
-    color: #333;
-}
-
-body.light-theme .social-icons a {
-    color: #6c757d;
-}
-
-body.light-theme .social-icons a:hover {
-    color: #007bff;
-}
-
-body.light-theme .join-now-btn {
-    background-color: #007bff;
-    color: #fff;
-    border-color: #007bff;
-}
-
-body.light-theme .join-now-btn:hover {
-    background-color: #0056b3;
-}
-
-body.light-theme .theme-toggle-btn {
-    color: #333;
 }
