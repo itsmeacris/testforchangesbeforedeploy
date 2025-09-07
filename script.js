@@ -65,6 +65,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 28, 2024",
         avatar: "https://i.ibb.co/rfNz81Hr/hinoryu.jpg",
+        coverPhoto: "https://pbs.twimg.com/media/Gw227tRWUAA14q8?format=jpg&name=large",
         socials: {
             twitter: "https://x.com/hinoryucrypto",
             discord: "hinoryucrypto"
