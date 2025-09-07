@@ -269,3 +269,167 @@ const xionBassadors = [
         name: "Alom",
         role: "Elect",
         electedDate: "March 3, 2025",
+        avatar: "https://i.ibb.co/fG8tnGgW/alom.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/khurshed6610",
+            discord: "alom6610"
+        },
+        blurColor: "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        name: "Miyamotoo",
+        role: "Elect",
+        electedDate: "March 3, 2025",
+        avatar: "https://i.ibb.co/TMnhfPFQ/miyamoto.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/GMiyamotoo",
+            discord: "miyamoto5139"
+        },
+        blurColor: "rgba(135, 206, 235, 0.2)"
+    },
+    {
+        name: "Raees Idrees",
+        role: "Elect",
+        electedDate: "April 8, 2025",
+        avatar: "https://i.ibb.co/XG0t5s9/idres.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/raeesidres",
+            discord: "raeesidres"
+        },
+        blurColor: "rgba(50, 50, 50, 0.3)"
+    },
+    {
+        name: "Abhi",
+        role: "Elect",
+        electedDate: "April 8, 2025",
+        avatar: "https://i.ibb.co/ZzVB4JYr/abhi.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/Abhi__web3",
+            discord: "abhi__web3"
+        },
+        blurColor: "rgba(135, 206, 235, 0.2)"
+    },
+    {
+        name: "Alok",
+        role: "Elect",
+        electedDate: "April 8, 2025",
+        avatar: "https://i.ibb.co/sdtSrhPj/alok.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/alok_inj",
+            discord: "alok8665"
+        },
+        blurColor: "rgba(139, 0, 0, 0.2)"
+    },
+    {
+        name: "KOVA",
+        role: "Elect",
+        electedDate: "April 8, 2025",
+        avatar: "https://i.ibb.co/ZCPxqdG/kova.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/kayd_kova",
+            discord: "kova6471"
+        },
+        blurColor: "rgba(0, 173, 239, 0.2)"
+    },
+    {
+        name: "Ashborn",
+        role: "Elect",
+        electedDate: "June 6, 2025",
+        avatar: "https://i.ibb.co/YFNJbZH6/ashborn.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/AshborN_AsK",
+            discord: "ashborn_ask"
+        },
+        blurColor: "rgba(0, 173, 239, 0.2)"
+    },
+    {
+        name: "NY-JOKER",
+        role: "Elect",
+        electedDate: "June 6, 2025",
+        avatar: "https://i.ibb.co/WNt13FLx/joker.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/ny_joker_eth",
+            discord: "ny_joker"
+        },
+        blurColor: "rgba(255, 192, 203, 0.2)"
+    },
+    {
+        name: "IKAY",
+        role: "Elect",
+        electedDate: "June 6, 2025",
+        avatar: "https://i.ibb.co/GBztR64/ikay.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/Great_Ikay",
+            discord: "ikay8522"
+        },
+        blurColor: "rgba(0, 173, 239, 0.2)"
+    },
+    {
+        name: "Ａｘｅｌ",
+        role: "Elect",
+        electedDate: "June 6, 2025",
+        avatar: "https://i.ibb.co/39fRVxHM/axel.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/axel__web3",
+            discord: "axel__001"
+        },
+        blurColor: "rgba(139, 0, 0, 0.2)"
+    },
+    {
+        name: "Qazi Haris",
+        role: "Elect",
+        electedDate: "June 6, 2025",
+        avatar: "https://i.ibb.co/q3V4RYdH/qazi.jpg",
+        coverPhoto: "https://i.ibb.co/L8f3y10/default-cover.png", // ADD THIS LINE
+        socials: {
+            twitter: "https://x.com/QaziHaris706",
+            discord: "ericklee325"
+        },
+        blurColor: "rgba(255, 165, 0, 0.2)"
+    }
+];
+
+const ambassadorWall = document.getElementById('ambassador-wall');
+
+function createAmbassadorCard(ambassador) {
+    const card = document.createElement('div');
+    card.classList.add('ambassador-card');
+    if (ambassador.blurColor) {
+        card.style.setProperty('--blur-color', ambassador.blurColor);
+    }
+
+    card.onclick = function() {
+        console.log(`Clicked on ${ambassador.name}`);
+        // Add your logic here to make the card clickable
+    };
+
+    card.innerHTML = `
+        <div class="cover-photo" style="background-image: url('${ambassador.coverPhoto}');"></div>
+        <img src="${ambassador.avatar}" alt="${ambassador.name}'s profile picture">
+        <h3>${ambassador.name}</h3>
+        <p class="role">${ambassador.role}</p>
+        ${ambassador.electedDate ? `<p class="elected-date">Elected: ${ambassador.electedDate}</p>` : ''}
+        ${ambassador.knightedDate ? `<p class="knighted-date">Knighted: ${ambassador.knightedDate}</p>` : ''}
+        <div class="socials">
+            ${ambassador.socials.twitter ? `<a href="${ambassador.socials.twitter}" class="twitter-button" target="_blank"><i class="fab fa-x-twitter"></i> Follow</a>` : ''}
+            ${ambassador.socials.discord ? `<div class="discord-box"><i class="fab fa-discord"></i> ${ambassador.socials.discord}</div>` : ''}
+        </div>
+    `;
+
+    return card;
+}
+
+xionBassadors.forEach(ambassador => {
+    const card = createAmbassadorCard(ambassador);
+    ambassadorWall.appendChild(card);
+});
