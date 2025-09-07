@@ -46,7 +46,7 @@ const xionBassadors = [
             twitter: "https://x.com/nazarr_0x",
             discord: "polniukn"
         },
-        blurColor: "rgba(255, 255, 255, 0.2)"
+        blurColor: "rgba(255, 255, 255, 0.1)"
     },
     {
         name: "Marko Stevan",
