@@ -222,7 +222,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/G39p1S05/sherry.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/821768303106490369/1745001369/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/sherrythelast",
             discord: "sherry0830"
@@ -234,7 +234,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/v69qQ7f2/kemkem.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1485312274889854978/1757187119/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/KemkemCrypt",
             discord: "kemkemcrypt"
@@ -246,7 +246,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/vCsBB3Wv/daniel.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1505982271047753728/1744697959/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/daniarchibong_",
             discord: "daniarchibong_"
@@ -258,7 +258,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/4ZXgLcRK/mr-hodl.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/850341512034603009/1750769059/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/HODL037",
             discord: "hodl037"
@@ -270,7 +270,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "March 3, 2025",
         avatar: "https://i.ibb.co/fG8tnGgW/alom.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/975425148563070979/1521395284/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/khurshed6610",
             discord: "alom6610"
@@ -294,7 +294,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/XG0t5s9/idres.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1381454463513296896/1749909671/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/raeesidres",
             discord: "raeesidres"
@@ -306,7 +306,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "April 8, 2025",
         avatar: "https://i.ibb.co/ZzVB4JYr/abhi.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1491304080542945280/1753113461/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/Abhi__web3",
             discord: "abhi__web3"
