@@ -155,7 +155,7 @@ const xionBassadors = [
             twitter: "https://x.com/cryptowoodd",
             discord: "cryptowood"
         },
-        blurColor: "rgba(255, 140, 0, 0.2)"
+        blurColor: "rgba(255, 140, 0, 0.1)"
     },
     {
         name: "DoNotCallMe",
