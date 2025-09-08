@@ -150,7 +150,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/ksJJPPqT/eliot.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1627212527980490753/1746268341/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/cryptowoodd",
             discord: "cryptowood"
@@ -162,7 +162,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/zWJm5btK/donotcallme.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1767876349899743233/1743276482/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/don0tcallme",
             discord: "don0tcallme"
@@ -174,7 +174,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "October 2, 2024",
         avatar: "https://i.ibb.co/RpKrGnJL/stasxion.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1349971087933796354/1729457454/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/StasXion",
             discord: "brozenstars"
@@ -186,7 +186,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/R44cJPJR/bite.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1130063388/1727177497/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/Bite_edu",
             discord: "jems8727"
@@ -198,7 +198,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/hR4yD5MD/acris.jpg",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1331276716979888129/1735264283/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/itsmeacris",
             discord: "itsmeacris"
@@ -210,7 +210,7 @@ const xionBassadors = [
         role: "Elect",
         electedDate: "Febuary 2, 2025",
         avatar: "https://i.ibb.co/ZR4fPDnt/macaron.png",
-        coverPhoto: "https://i.ibb.co/LdQ8MhZ/default-cover.jpg", // Added cover photo
+        coverPhoto: "https://pbs.twimg.com/profile_banners/1715276108772585472/1710328376/1500x500", // Added cover photo
         socials: {
             twitter: "https://x.com/macaron_dao_",
             discord: "macaron_dao"
